@@ -21,7 +21,7 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YourUsername/CipherVault.git](https://github.com/YourUsername/CipherVault.git)
+    git clone [https://github.com/nolifer-jpg/CipherVault.git](https://github.com/nolifer-jpg/CipherVault.git)
     cd CipherVault
     ```
 
